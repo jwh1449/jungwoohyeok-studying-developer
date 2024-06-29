@@ -10,4 +10,4 @@
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 
 + Anaconda 안에 있는 파이썬 버전 확인 : conda search python
-+ Anaconda에서 가상환경 생성 : conda create -n 생성하고 싶은 이름 python=설치버전 *띄어쓰기 주의
++ Anaconda에서 가상환경 생성 : conda create -n 생성하고 싶은 이름 python=설치버전   * 띄어쓰기 주의
