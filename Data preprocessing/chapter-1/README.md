@@ -10,8 +10,8 @@
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 
 1. cmd창에 명령어 입력하여 가상환경 만들기(명령어 띄어쓰기 주의)
-+ Anaconda 안에 있는 파이썬 버전 확인 : conda search python
-+ Anaconda에서 가상환경 생성 : conda create -n 생성하고 싶은 이름 python=설치버전
++ Anaconda 안에 있는 파이썬 버전 확인 : conda search python(뜨면 conda 설치된거임)
++ Anaconda에서 가상환경 생성 : conda create -n 생성하고 싶은 이름 python=설치버전(3.11 or 3.11.4 가능)
 + Anaconda에서 가상환경 확인 : conda env list
 + Anaconda에서 가상환경 삭제 : conda env remove -n 삭제하고 싶은 이름
 + 현재 설치돼 있는 파이썬의 환경에서 설치된 package 종류 확인 : pip freeze
