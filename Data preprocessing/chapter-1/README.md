@@ -23,10 +23,10 @@ Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 + 패키지 설치
 pip install jupyter notebook
 pip install ipykernel
-+ 커널 생성하기 : python -m ipykernel install --user--name=커널이름 --display-name '원하는 이름' (찾기 쉽게 가상환경이름과 동일하게 짓는거 추천)
++ 커널 생성하기 : python -m ipykernel install --user --name=커널이름 --display-name '원하는 이름' (찾기 쉽게 가상환경이름과 동일하게 짓는거 추천)
 + 주피터에 생생된 커널 목록확인하기 : jupyter kernelspec list
 + 주피터에 생성된 커널 삭제하기 : jupyter kernelspec uninstall 커널이름
-
++ 주피터 노트북ㅇ[ 접속하기 : jupyter notebook
 3. 사용된 가상환경 패키지 저장, 다른 가상환경에 설치 
 + pip freeze > 이름.txt
 + pip install -r 이름.txt (txt파일이 같은경로에 있어야 함)
