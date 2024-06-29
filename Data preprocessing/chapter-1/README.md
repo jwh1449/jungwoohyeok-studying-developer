@@ -27,6 +27,7 @@ pip install ipykernel
 + 주피터에 생생된 커널 목록확인하기 : jupyter kernelspec list
 + 주피터에 생성된 커널 삭제하기 : jupyter kernelspec uninstall 커널이름
 + 주피터 노트북ㅇ[ 접속하기 : jupyter notebook
+  
 3. 사용된 가상환경 패키지 저장, 다른 가상환경에 설치 
 + pip freeze > 이름.txt
 + pip install -r 이름.txt (txt파일이 같은경로에 있어야 함)
