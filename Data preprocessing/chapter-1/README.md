@@ -19,7 +19,7 @@ Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 + 생성된 가상환경 들어가기 : conda activate 가상환경이름 (activate 가상환경이름)
 + 생성된 가상환경 나가기 : deactivate
 
-2. 주피터 노트북과 커널을 만들수 있는 패키지 설치 및 커널 만들기
+2. 주피터 노트북과 커널을 만들수 있는 패키지 설치 및 커널 만들기(가상환경 접속후)
 + 패키지 설치
 pip install jupyter notebook
 pip install ipykernel
