@@ -26,22 +26,4 @@
 <br/> 요인(Factor) : 범주형 데이터, Categorical data
 + 서로 다른 유형의 데이터(different type of objects)
 <br/> 데이터 프레임(Dataframe) : 2차원, 2dimension
-<br/><br/>숫자형
-
-
-Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
-
-1. cmd창에 명령어 입력하여 가상환경 만들기(명령어 띄어쓰기 주의)
-+ 원하는 폴더에서 경로창에서 cmd치고 들어가면 코드들 저장할때 원하는 폴더로 저장됨
-+ Anaconda 안에 있는 파이썬 버전 확인 : conda search python(뜨면 conda 설치된거임)
-+ Anaconda에서 가상환경 생성 : conda create -n 생성하고 싶은 이름 python=설치버전(3.11 or 3.11.4 가능)
-+ Anaconda에서 가상환경 확인 : conda env list
-+ Anaconda에서 가상환경 삭제 : conda env remove -n 삭제하고 싶은 이름
-+ 현재 설치돼 있는 파이썬의 환경에서 설치된 package 종류 확인 : pip freeze
-+ 생성된 가상환경 들어가기 : conda activate 가상환경이름 (activate 가상환경이름)
-+ 생성된 가상환경 나가기 : deactivate
-
-2. 주피터 노트북과 커널을 만들수 있는 패키지 설치 및 커널 만들기(가상환경 접속후)
-+ 패키지 설치
-<br/>pip install jupyter notebook
-<br/>pip install ipykernel
+<br/> 숫자형(numeri)
