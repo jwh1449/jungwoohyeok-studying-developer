@@ -22,7 +22,7 @@ Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 2. 주피터 노트북과 커널을 만들수 있는 패키지 설치 및 커널 만들기(가상환경 접속후)
 + 패키지 설치
 pip install jupyter notebook
-pip install ipykernel
++pip install ipykernel
 + 커널 생성하기 : python -m ipykernel install --user --name=커널이름 --display-name '원하는 이름' (찾기 쉽게 가상환경이름과 동일하게 짓는거 추천)
 + 주피터에 생생된 커널 목록확인하기 : jupyter kernelspec list
 + 주피터에 생성된 커널 삭제하기 : jupyter kernelspec uninstall 커널이름
