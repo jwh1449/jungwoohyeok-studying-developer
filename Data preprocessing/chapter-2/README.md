@@ -19,6 +19,7 @@
 <br/>\\' : 작은따옴표(')를 그대로 표현할 때 사용
 <br/>\\" : 큰따옴표(")를 그대로 표현할 때 사용
 
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/7bb44e3e-115d-4500-b3a5-c7cff1b9de66">
 
 
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
