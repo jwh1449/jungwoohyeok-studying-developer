@@ -17,6 +17,10 @@
 <br/>\\' : 작은따옴표(')를 그대로 표현할 때 사용
 <br/>\\" : 큰따옴표(")를 그대로 표현할 때 사용
 
++ 리스트(List) : 모든 유형의 객체 집합(all kings of objects)
++ 동일한 유형의 데이터(same type of objects)
+<br/>   +배열
+
 
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 
