@@ -9,8 +9,6 @@
 <br/> 유리수(numeric) ex) 10, 20, 1.178
 <br/> 정수(integer) ex) 5, 10, 2
 <br/> 논리값(logical) ex) TRUE, FALSE
-<img width="623" alt="image" src="https://github.com/user-attachments/assets/0d7d09f8-2a74-43aa-8349-a5ec97074cc8">
-<img width="619" alt="image" src="https://github.com/user-attachments/assets/c439b930-aa01-4d29-aba6-51245fd73665">
 
 코드 : 설명
 <br/>\n : 문자열 안에서 줄을 바꿀 때 사용
@@ -18,8 +16,6 @@
 <br/>\\\ : 문자 \를 그대로 표현할 때 사용
 <br/>\\' : 작은따옴표(')를 그대로 표현할 때 사용
 <br/>\\" : 큰따옴표(")를 그대로 표현할 때 사용
-
-<img width="604" alt="image" src="https://github.com/user-attachments/assets/7bb44e3e-115d-4500-b3a5-c7cff1b9de66">
 
 
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
