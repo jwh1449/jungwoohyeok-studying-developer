@@ -19,7 +19,14 @@
 
 + 리스트(List) : 모든 유형의 객체 집합(all kings of objects)
 + 동일한 유형의 데이터(same type of objects)
-<br/>+ 배열
+<br/> 배열(Array) : 2차원이상, more than 2 dimensions
+<br/> 행렬(Matrix) : 2차원, 2 dimension
+<br/> 벡터(Vector) : 1차원, 1 dimension
+<br/> 스칼라(Scala) : 구성인자 1개, 1element
+<br/> 요인(Factor) : 범주형 데이터, Categorical data
++ 서로 다른 유형의 데이터(different type of objects)
+<br/> 데이터 프레임(Dataframe) : 2차원, 2dimension
+  숫자형
 
 
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
