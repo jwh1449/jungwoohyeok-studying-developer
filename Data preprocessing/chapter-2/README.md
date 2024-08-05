@@ -26,8 +26,7 @@
 <br/> 요인(Factor) : 범주형 데이터, Categorical data
 + 서로 다른 유형의 데이터(different type of objects)
 <br/> 데이터 프레임(Dataframe) : 2차원, 2dimension
-
-숫자형
+<br/><br/>숫자형
 
 
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
