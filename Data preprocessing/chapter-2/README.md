@@ -12,6 +12,9 @@
 <img width="623" alt="image" src="https://github.com/user-attachments/assets/0d7d09f8-2a74-43aa-8349-a5ec97074cc8">
 <img width="619" alt="image" src="https://github.com/user-attachments/assets/c439b930-aa01-4d29-aba6-51245fd73665">
 
+코드 : 설명
+\n : 무
+
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 
 1. cmd창에 명령어 입력하여 가상환경 만들기(명령어 띄어쓰기 주의)
