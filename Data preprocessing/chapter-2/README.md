@@ -13,7 +13,13 @@
 <img width="619" alt="image" src="https://github.com/user-attachments/assets/c439b930-aa01-4d29-aba6-51245fd73665">
 
 코드 : 설명
-\n : 무
+<br/>\n : 문자열 안에서 줄을 바꿀 때 사용
+<br/>\t : 문자열 사이에 탭 간격을 줄 때 사용
+<br/>\\ : 문자 \를 그대로 표현할 때 사용
+<br/>\' : 작은따옴표(')를 그대로 표현할 때 사용
+<br/>\" : 큰따옴표(")를 그대로 표현할 때 사용
+
+
 
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 
