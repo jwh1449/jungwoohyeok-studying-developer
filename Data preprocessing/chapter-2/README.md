@@ -10,7 +10,7 @@
 <br/> 정수(integer) ex) 5, 10, 2
 <br/> 논리값(logical) ex) TRUE, FALSE
 
-
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/0d7d09f8-2a74-43aa-8349-a5ec97074cc8">
 
 Win키+R :CMD창 열기 or win창에서 cmd검색 후 명령 프롬프트 클릭
 
